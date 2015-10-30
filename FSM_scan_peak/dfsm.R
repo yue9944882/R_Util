@@ -1,6 +1,6 @@
 #Scan Peak DFSM
 
-#input: kde return val XXkde
+#input: kde return val kde
 
 
 

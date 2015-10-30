@@ -4,7 +4,6 @@ showret<-function(news,newe,orgs,orge){
 
 showkde<-rep(0,512)
 
-
 peakstart=mm$news
 peakend=mm$newe
 
