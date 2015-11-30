@@ -2,11 +2,13 @@ R
 #R Util#
 ============================================
 
-My Own Toolset of R language
+My Own Toolset of R Language
 
 ##Directory##
 ======================================================
 ###1. fast-dist###
+
+
 
 
 	
